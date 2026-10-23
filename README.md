@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lach Theary — Portfolio
 
 A responsive portfolio built with HTML, CSS, and vanilla JavaScript. Open `index.html` directly in a browser, or serve the project folder with any static file server.
@@ -23,3 +24,7 @@ assets/
 - **CV:** Add your actual PDF as `assets/documents/Lach_Theary_CV.pdf`; the navigation and hero buttons already point there. No sample CV is included.
 
 The contact form validates the fields in the browser but does not send messages. Connect a backend or email service to enable delivery.
+=======
+# Portfolio
+Here is a sample description for my personal portfolio website, based on my ITC education, web development internships, and project experience.
+>>>>>>> 864333b3fa5b331d81c38431ad4ff056fcee756b
